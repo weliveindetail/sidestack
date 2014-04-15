@@ -19,3 +19,6 @@
 *.app
 /*.v12.suo
 /*.sdf
+/Debug/
+/Release/
+/*.opensdf
